@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#FFFFFF"/>
+  <rect width="1200" height="6" fill="#0D9488"/>
+
+  <!-- ロゴアイコン -->
+  <g transform="translate(530, 80)">
+    <rect x="10" y="10" width="130" height="130" rx="22" ry="22" fill="#0D9488"/>
+    <rect x="28" y="28" width="38" height="38" rx="7" ry="7" fill="#FFFFFF"/>
+    <rect x="82" y="28" width="38" height="38" rx="7" ry="7" fill="#FFFFFF"/>
+    <rect x="28" y="82" width="38" height="38" rx="7" ry="7" fill="#FFFFFF"/>
+    <rect x="82" y="82" width="38" height="38" rx="7" ry="7" fill="#FFFFFF"/>
+    <path d="M47,92 C44,89 40,89 40,93 C40,96 44,100 47,102 C50,100 54,96 54,93 C54,89 50,89 47,92 Z" fill="#0D9488"/>
+  </g>
+
+  <!-- テキスト -->
+  <text x="600" y="310" text-anchor="middle" font-family="sans-serif" font-size="52" font-weight="bold" fill="#1A1A2E">やさしい窓口</text>
+  <text x="600" y="360" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#4A4A5A">障害のある子どもが利用できる制度・手当ガイド</text>
+
+  <!-- 機能タグ -->
+  <g transform="translate(240, 400)">
+    <rect x="0" y="0" width="130" height="36" rx="8" fill="#F0FDFA"/>
+    <text x="65" y="24" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="500" fill="#0D9488">制度診断</text>
+
+    <rect x="146" y="0" width="160" height="36" rx="8" fill="#F0FDFA"/>
+    <text x="226" y="24" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="500" fill="#0D9488">シミュレーション</text>
+
+    <rect x="322" y="0" width="130" height="36" rx="8" fill="#F0FDFA"/>
+    <text x="387" y="24" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="500" fill="#0D9488">施設検索</text>
+
+    <rect x="468" y="0" width="130" height="36" rx="8" fill="#F0FDFA"/>
+    <text x="533" y="24" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="500" fill="#0D9488">ニュース</text>
+  </g>
+
+  <!-- URL -->
+  <text x="600" y="510" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#8E8E9A">yasashii-madoguchi.jp</text>
+</svg>

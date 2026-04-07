@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- 外枠（角丸四角） -->
+  <rect x="10" y="10" width="180" height="180" rx="30" ry="30" fill="#0D9488"/>
+
+  <!-- 左上の窓 -->
+  <rect x="38" y="38" width="52" height="52" rx="10" ry="10" fill="#FFFFFF"/>
+
+  <!-- 右上の窓 -->
+  <rect x="110" y="38" width="52" height="52" rx="10" ry="10" fill="#FFFFFF"/>
+
+  <!-- 左下の窓 -->
+  <rect x="38" y="110" width="52" height="52" rx="10" ry="10" fill="#FFFFFF"/>
+
+  <!-- 右下の窓 -->
+  <rect x="110" y="110" width="52" height="52" rx="10" ry="10" fill="#FFFFFF"/>
+
+  <!-- 左下の窓にハート -->
+  <path d="M64,126 C60,122 54,122 54,128 C54,132 60,137 64,140 C68,137 74,132 74,128 C74,122 68,122 64,126 Z" fill="#0D9488"/>
+</svg>
