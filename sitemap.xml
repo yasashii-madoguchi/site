@@ -1225,6 +1225,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/seido/seikatsu-fukushi-kashitsuke/</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/seido/shiga-iryohi/</loc>
     <lastmod>2026-04-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -1238,6 +1244,12 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/seido/shimonoseki-teate/</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/shinshin-fuyou-kyosai/</loc>
     <lastmod>2026-04-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1262,6 +1274,12 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/seido/short-stay/</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/shougai-kiso-nenkin/</loc>
     <lastmod>2026-04-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
