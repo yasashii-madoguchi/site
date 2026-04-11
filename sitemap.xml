@@ -427,6 +427,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/seido/fuji-kaigo-teate/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/seido/fujisawa-teate/</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -452,6 +458,12 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/seido/fukuoka-iryohi/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/fukushima-city-teate/</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -542,6 +554,12 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/seido/ibaraki-iryohi/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/ichikawa-teate/</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -685,6 +703,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/seido/kochi-fukushi-kyufukin/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/seido/kochi-iryohi/</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -692,6 +716,18 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/seido/kofu-teate/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/koriyama-jido-teate/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/koriyama-nanbyo-teate/</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -715,6 +751,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/seido/kurashiki-jido-nenkin/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/seido/kyoto-iryohi/</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -728,6 +770,30 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/seido/marusho-tokyo/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/matsudo-nanbyo-teate/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/matsudo-teate/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/matsumoto-nanbyo-mimaikin/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/matsumoto-teate/</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1201,6 +1267,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/seido/ota-shujutsu-mimaikin/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/ota-tokuteishikkan-mimaikin/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/seido/saga-iryohi/</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -1315,6 +1393,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/seido/takamatsu-fukushikin/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/takarazuka-kaigo-teate/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/takasaki-teate/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/seido/tama-teate/</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -1375,6 +1471,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/seido/tokyo-131067-teate/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/seido/tokyo-131075-teate/</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -1417,6 +1519,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/seido/tokyo-131156-teate/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/seido/tokyo-131164-teate/</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -1447,7 +1555,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/seido/tokyo-131211-teate/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/seido/tokyo-131229-teate/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/tokyo-city-132012/</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1555,6 +1675,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/seido/toyama-fukushikin/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/seido/toyama-iryohi/</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -1592,6 +1718,12 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/seido/wakayama-iryohi/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/yamagata-city-teate/</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
