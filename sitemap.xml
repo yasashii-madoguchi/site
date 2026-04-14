@@ -1573,6 +1573,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/seido/muni-152129/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/seido/muni-152137/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -1615,6 +1621,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/seido/muni-182028/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/seido/muni-182095/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -1640,6 +1652,24 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/seido/muni-202037/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/muni-202096/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/muni-202151/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/muni-202185/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2875,6 +2905,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/chikuma/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/chikusei/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -2882,6 +2918,12 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/chikushino/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/chino/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -2984,6 +3026,12 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/fuchu/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/fuefuki/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3403,6 +3451,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/ina-nagano/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/inagi/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -3560,6 +3614,12 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/kadoma/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/kaga/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4147,6 +4207,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/minamiuonuma/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/minato/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -4244,6 +4310,12 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/munakata/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/murakami/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4459,6 +4531,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/nonoichi/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/numazu/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -4634,6 +4712,12 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/ryugasaki/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/sabae/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4838,6 +4922,12 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/shiogama/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/shiojiri/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -5162,6 +5252,12 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/tsukubamirai/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/tsuruga/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
