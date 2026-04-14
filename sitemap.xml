@@ -1519,6 +1519,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/seido/muni-192104/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/seido/muni-202037/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -1538,6 +1544,12 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/seido/muni-212032/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/muni-212067/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1688,6 +1700,24 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/seido/muni-282197/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/muni-282294-juudo/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/muni-282294-shinshin/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/muni-292036/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
