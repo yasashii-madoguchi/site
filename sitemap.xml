@@ -1573,6 +1573,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/seido/muni-272086/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/muni-272248/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/seido/muni-282031/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -1591,7 +1603,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/seido/muni-282090/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/seido/muni-282103/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/seido/muni-282154/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -3145,6 +3169,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/izumiotsu/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/izumisano/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -3176,6 +3206,12 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/kagoshima/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/kaizuka/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3271,6 +3307,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/kashiba/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/kashihara/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -3296,6 +3338,12 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/kasukabe/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/katano/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3656,6 +3704,12 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/meguro/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/miki/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4213,6 +4267,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/settsu/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/shibata/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -4345,6 +4405,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/takasago/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/takasaki/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -4370,6 +4436,12 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/tateyama/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/tatsuno/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4460,6 +4532,12 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/toyonaka/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/toyooka/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4610,6 +4688,12 @@
   </url>
   <url>
     <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/yamato/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://yasashii-madoguchi.jp/guide/kodomo-iryouhi/yamatokoriyama/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
