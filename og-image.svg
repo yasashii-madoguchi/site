@@ -14,7 +14,7 @@
 
   <!-- テキスト -->
   <text x="600" y="310" text-anchor="middle" font-family="sans-serif" font-size="52" font-weight="bold" fill="#1A1A2E">やさしい窓口</text>
-  <text x="600" y="360" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#4A4A5A">障害のある子どもが利用できる制度・手当ガイド</text>
+  <text x="600" y="360" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#4A4A5A">障害のある子ども・医療的ケア児の制度ガイド</text>
 
   <!-- 機能タグ -->
   <g transform="translate(240, 400)">
