@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[7052,["/_next/static/chunks/0-xb5a.ppkni-.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0ysq6-65rvyn7.js","/_next/static/chunks/0m90ehl3c7o7j.js","/_next/static/chunks/0w8b83wvl2d6y.js"],"ClientRedirect"]
-3:I[97367,["/_next/static/chunks/0-xb5a.ppkni-.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"to":"/seido/miyazaki/shiiba-son/kodomo-iryouhi/"}],[["$","script","script-0",{"src":"/_next/static/chunks/0ysq6-65rvyn7.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0m90ehl3c7o7j.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/0w8b83wvl2d6y.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"hOG3xprK23AXX_i6tKBcq"}
-5:null
